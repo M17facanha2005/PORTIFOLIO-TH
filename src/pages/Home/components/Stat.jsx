@@ -15,7 +15,7 @@ export const Stat = ({ data }) => {
   const Value = styled.div`
     animation: ${LoadValue} 500ms;
     width: ${isVisible ? data.value : 0}%;
-    height: 100%;
+    height: 150%;
     background: rgb(250, 0, 0);
     border-radius: 999px;
   `;

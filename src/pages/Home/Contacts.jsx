@@ -8,7 +8,7 @@ export const Contacts = () => {
     <div className="content">
       <div className="val">
         <BsWhatsapp size={40}/>
-        <p>+55 85 99999-9999</p>
+        <p>+55 85 98729-3174</p>
       </div>
       <div className="val">
         <FiMail size={40}/>

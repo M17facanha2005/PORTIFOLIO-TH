@@ -745,7 +745,7 @@ const SStatistics = styled.section`
         gap: 4px;
         & svg {
           color: rgb(158, 5, 5);
-        }
+        }11
         & .bar {
           background: rgb(158, 5, 5)7d;
           height: 50px;

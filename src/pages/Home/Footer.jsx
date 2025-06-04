@@ -51,7 +51,7 @@ const SFooter = styled.footer`
   padding: 0 20px;
 
   & h1 {
-    color: #9342f7;
+    color: rgb(250, 0, 0);
     font-family: "Outfit";
     font-weight: 800;
     font-size: 50px;

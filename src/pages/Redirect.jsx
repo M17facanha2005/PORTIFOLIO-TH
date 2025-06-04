@@ -6,7 +6,7 @@ export const Redirect = ({ direction }) => {
 
   useEffect(() => {
     if (direction === "discord") {
-      window.location.href = "https://discord.gg/ybFtuSEuqb";
+      window.location.href = "https://discord.gg/SHmK2x3xAA";
     } else {
       navigate("/" + direction);
     }

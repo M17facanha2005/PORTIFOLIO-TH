@@ -11,8 +11,17 @@ export const Experience = () => {
         <div className="bar"/>
       </div>
       <div className="val">
-        <span><h1>Nexus Group</h1><p>Trabalhei como desenvolvedor na agência de servidores de FiveM "Nexus Group" (15/07/2024)</p></span>
-        <span><h1>TDR_BOTS</h1><p>Trabalhei como desenvolvedor web discord "TDR_BOTS" (12/09/2024)</p></span>
+        ## Nexus Group
+**Cargo:** Desenvolvedor  
+**Período:** 15/07/2024  
+**Descrição:**  
+- Trabalhei como desenvolvedor na agência de servidores de FiveM "Nexus Group".  
+
+## TDR_BOTS
+**Cargo:** Desenvolvedor Web Discord  
+**Período:** 12/09/2024  
+**Descrição:**  
+- Desenvolvimento de bots e soluções web para Discord.
       </div>
     </div>
   </div>

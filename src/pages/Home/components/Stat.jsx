@@ -16,7 +16,7 @@ export const Stat = ({ data }) => {
     animation: ${LoadValue} 500ms;
     width: ${isVisible ? data.value : 0}%;
     height: 100%;
-    background: #9342f7;
+    background: rgb(250, 0, 0);
     border-radius: 999px;
   `;
   const statRef = useRef(null);

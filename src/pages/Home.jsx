@@ -309,7 +309,7 @@ const SHeader = styled.header`
         & svg {
           animation: ${animations.showIcon} 1s ease;
           cursor: pointer;
-          color: rgb(250, 0, 0);
+          color: #9342f7;
           &:hover {
             opacity: 0.8;
             scale: 1.1;
@@ -629,7 +629,7 @@ const SStatistics = styled.section`
       display: flex;
       align-items: center;
       justify-content: space-between;
-      color: rgb(250, 0, 0);
+      color: #9342f7;
       width: 100%; // ajuste aqui
 
       & .icon {
@@ -641,7 +641,7 @@ const SStatistics = styled.section`
       }
 
       & .wrapper {
-        border: 2px solid rgb(250, 0, 0);
+        border: 2px solid #9342f7;
         height: 22px;
         border-radius: 999px;
         padding: 4px;
@@ -667,7 +667,7 @@ const SStatistics = styled.section`
     & .content {
       & .val {
         & svg {
-          color: rgb(250, 0, 0);
+          color: #9342f7;
         }
         display: flex;
         align-items: center;
@@ -715,7 +715,7 @@ const SStatistics = styled.section`
       font-family: "Manrope";
 
       & svg {
-        color: rgb(250, 0, 0);
+        color: #9342f7;
       }
 
       & p {
@@ -744,10 +744,10 @@ const SStatistics = styled.section`
         align-items: center;
         gap: 4px;
         & svg {
-          color: rgb(250, 0, 0);
+          color: #9342f7;
         }
         & .bar {
-          background: rgb(250, 0, 0)7d;
+          background: #9342f77d;
           height: 50px;
           width: 1px;
         }
